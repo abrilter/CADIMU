@@ -1,0 +1,29 @@
+{
+    "name": "CADIMU",
+    "short_name": "CADIMU",
+    "description": "Plataforma para la capacitación digital para el empleo para mujeres en situación socioeconómica desfavorable.",
+    "theme_color": "#FF7082",
+    "background_color": "#AD8CEA",
+    "display": "standalone",
+    "start_url": "./?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-Mx",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "./img/CADIMU_Icon1024.png",
+            "sizes": "1022x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/CADIMU_Icon0.png",
+            "sizes": "426x427",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/CADIMU_Icon16.png",
+            "sizes": "16x16",
+            "type": "image/png"
+        }
+    ]
+}
